@@ -1,4 +1,4 @@
-# inspect-public
+# inspect-public (POC)
 INSPECT is a sentiment and NER extraction tool!
 
 ### Preliminary remarks
