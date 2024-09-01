@@ -1,4 +1,4 @@
-# [DEPRECATED PLS SEE -> https://github.com/just-rene/inspect-v2-public]
+# DEPRECATED https://github.com/just-rene/inspect-v2-public
 
 ## inspect-public (POC)
 INSPECT is a sentiment and NER extraction tool!
